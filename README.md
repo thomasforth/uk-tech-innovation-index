@@ -2,7 +2,7 @@
 
 Data that powers [ODILeeds' UK Tech Innovation Index](http://www.odileeds.org/projects/uk-tech-innovation-index/).
 
-Updated data is available at [UK Tech Innovation Index 2](http://thedatacity.com/products/uk-tech-innovation-index-2/)
+Updated data is available at [UK Tech Innovation Index 2](http://thedatacity.com/products/uk-tech-innovation-index-2/).
 
 The methods of the index are explained in more detail in two blog posts. [More than Meetup: Using Eventbrite and Open Tech Calendar to identify digital clusters](http://tomforth.co.uk/morethanmeetup/) and [The evolution of clusters of research excellence measured with The Microsoft Academic Knowledge API preview](http://tomforth.co.uk/academicoutput/).
 
